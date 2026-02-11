@@ -22,47 +22,11 @@
 
 ### Projects
 
-<table>
-<tr>
-<td width="50%">
-
-**[node-express-api-boilerplate](https://github.com/hussainu6/node-express-api-boilerplate-)**  
-Production-ready API · MongoDB, Redis, JWT, RBAC, Docker
-
-</td>
-<td width="50%">
-
-**[Bill-Generator-Pro](https://github.com/hussainu6/Bill-Generator-Pro)**  
-Invoice & bill generator · React, TypeScript, Tailwind
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[state-mirror](https://github.com/hussainu6/state-mirror)**  
-Real-time state sync across tabs & devices
-
-</td>
-<td width="50%">
-
-**[npmsafe](https://github.com/hussainu6/npmsafe)**  
-Safety checks for npm publishing
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Long-Dog-Challenge](https://github.com/hussainu6/Long-Dog-Challenge)** · [Play →](https://hussainu6.github.io/Long-Dog-Challenge/)  
-Infinite Doge scroll game
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
+| Project | Description |
+|---------|-------------|
+| [**dev-quotes-api**](https://github.com/hussainu6/dev-quotes-api) | Free REST API for random developer quotes — no auth |
+| [**md-live**](https://github.com/hussainu6/md-live) | Live markdown preview — type & see rendered output |
+| [**node-express-api-boilerplate**](https://github.com/hussainu6/node-express-api-boilerplate-) | Production API — MongoDB, Redis, JWT, RBAC, Docker |
 
 ---
 
