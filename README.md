@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=420&lines=Uzair+Hussain;Full-Stack+Developer;Photon+in+a+double+slit+%E2%9A%9B" alt="typing svg" />
-</p>
+# Uzair Hussain
+
+**Full-Stack Developer** · TypeScript · MERN · Building tools & APIs  
+*Photon in a double slit ⚛️*
 
 <p align="center">
   <a href="https://github.com/hussainu6?tab=achievements">
-    <img src="https://github-readme-achievements.vercel.app/api?username=hussainu6&theme=radical&no-frame=true&no-bg=true" height="120" alt="GitHub Achievements" />
+    <img src="https://img.shields.io/badge/Achievements-View_on_GitHub-58A6FF?style=flat-square&logo=github" alt="View Achievements" />
   </a>
 </p>
 
@@ -68,8 +69,8 @@ Infinite Doge scroll game
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hussainu6&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="420" />
-  <img src="https://github-readme-streak-stats.deno.dev/?user=hussainu6&theme=radical&background=0d1117&hide_border=true" width="420" />
+  <img src="https://img.shields.io/github/followers/hussainu6?style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/github/users/stars/hussainu6?style=flat-square" alt="Stars" />
 </p>
 
 ---
