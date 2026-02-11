@@ -24,9 +24,12 @@
 
 | Project | Description |
 |---------|-------------|
-| [**dev-quotes-api**](https://github.com/hussainu6/dev-quotes-api) | Free REST API for random developer quotes — no auth |
-| [**md-live**](https://github.com/hussainu6/md-live) | Live markdown preview — type & see rendered output |
-| [**node-express-api-boilerplate**](https://github.com/hussainu6/node-express-api-boilerplate-) | Production API — MongoDB, Redis, JWT, RBAC, Docker |
+| [**dev-quotes-api**](https://github.com/hussainu6/dev-quotes-api) | Free REST API for random developer quotes |
+| [**url-shortener**](https://github.com/hussainu6/url-shortener) | Create short links, redirect on visit |
+| [**md-live**](https://github.com/hussainu6/md-live) | Live markdown preview — type & see output |
+| [**emoji-finder**](https://github.com/hussainu6/emoji-finder) | Search emojis by name, click to copy |
+| [**expense-tracker**](https://github.com/hussainu6/expense-tracker) | Add expenses, localStorage, see total |
+| [**node-express-api-boilerplate**](https://github.com/hussainu6/node-express-api-boilerplate-) | Production API — MongoDB, Redis, JWT, RBAC |
 
 ---
 
