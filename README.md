@@ -34,7 +34,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/hussainu6?style=flat-square" alt="Followers" />
-  <img src="https://img.shields.io/github/users/stars/hussainu6?style=flat-square" alt="Stars" />
 </p>
 
 ---
